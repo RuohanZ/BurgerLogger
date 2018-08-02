@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(255, 208, 0)
+}
+
+#slogen{
+    font-size: 60px;
+    color: orangered;
+    font-family: 'Hanalei Fill', cursive;
+}
+
+img{
+    margin-top: 30px;
+}
+
+.container{
+
+    text-align: center;
+}
+
+#not-devoured{
+    text-align: right;
+}
+#devoured{
+    text-align: left;
+}
+button{
+    margin:10px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.create-div{
+    text-align-last: center;
+}
+
+input{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.instruction{
+    margin-top:5px;
+    font-size: 25px;
+    color: orangered;
+    font-family: 'Hanalei Fill', cursive;
+}
+
+
+
